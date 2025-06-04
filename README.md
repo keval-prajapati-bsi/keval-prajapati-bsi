@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working as a software engineer
+i'm Software Engineer
 
 
 # 💻 Tech Stack:
